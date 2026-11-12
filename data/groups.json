@@ -1,0 +1,26 @@
+[
+  {
+    "group_id": "G01",
+    "name": "Hạ tầng mạng",
+    "description": "Wi-Fi, LAN, VPN, thiết bị mạng",
+    "lead": ""
+  },
+  {
+    "group_id": "G02",
+    "name": "Phần cứng",
+    "description": "Máy tính, máy in, thiết bị ngoại vi",
+    "lead": ""
+  },
+  {
+    "group_id": "G03",
+    "name": "Phần mềm & Ứng dụng",
+    "description": "Cài đặt, lỗi ứng dụng, cập nhật",
+    "lead": ""
+  },
+  {
+    "group_id": "G04",
+    "name": "Tài khoản & Bảo mật",
+    "description": "Mật khẩu, phân quyền, cảnh báo bảo mật",
+    "lead": ""
+  }
+]

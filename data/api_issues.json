@@ -1,0 +1,67 @@
+[
+  {
+    "external_ref": "github:python/cpython#1",
+    "title": "Crash khi mở tệp lớn trên Windows",
+    "description": "Chương trình bị crash khi mở tệp lớn.",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "critical",
+    "status": "new",
+    "created_at": "2026-11-01T08:00:00Z",
+    "labels": [
+      "type-crash"
+    ],
+    "url": "https://github.com/python/cpython/issues/1"
+  },
+  {
+    "external_ref": "github:python/cpython#2",
+    "title": "Lỗi kết nối socket sau khi ngủ máy",
+    "description": "Socket bị đóng sau khi máy thức dậy.",
+    "category": "Mạng",
+    "priority": "high",
+    "status": "new",
+    "created_at": "2026-11-02T08:00:00Z",
+    "labels": [
+      "type-bug"
+    ],
+    "url": "https://github.com/python/cpython/issues/2"
+  },
+  {
+    "external_ref": "github:python/cpython#3",
+    "title": "Cập nhật tài liệu hướng dẫn cài đặt",
+    "description": "Tài liệu cài đặt còn thiếu bước.",
+    "category": "Phần mềm",
+    "priority": "low",
+    "status": "closed",
+    "created_at": "2026-11-03T08:00:00Z",
+    "labels": [
+      "docs"
+    ],
+    "url": "https://github.com/python/cpython/issues/3"
+  },
+  {
+    "external_ref": "github:python/cpython#4",
+    "title": "Hiệu năng chậm khi chạy kiểm thử",
+    "description": "Bộ kiểm thử chạy chậm bất thường.",
+    "category": "Phần mềm",
+    "priority": "medium",
+    "status": "new",
+    "created_at": "2026-11-04T08:00:00Z",
+    "labels": [
+      "performance"
+    ],
+    "url": "https://github.com/python/cpython/issues/4"
+  },
+  {
+    "external_ref": "github:python/cpython#5",
+    "title": "Đề xuất thêm tùy chọn cấu hình mới",
+    "description": "Mong muốn có thêm tùy chọn.",
+    "category": "Phần mềm",
+    "priority": "low",
+    "status": "new",
+    "created_at": "2026-11-05T08:00:00Z",
+    "labels": [
+      "type-feature"
+    ],
+    "url": "https://github.com/python/cpython/issues/5"
+  }
+]

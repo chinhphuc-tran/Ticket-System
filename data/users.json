@@ -1,0 +1,90 @@
+[
+  {
+    "username": "admin",
+    "full_name": "Quản Trị Viên",
+    "email": "admin@example.com",
+    "phone": "0900000001",
+    "role": "admin",
+    "password_hash": "157017f4c2cb580277d398504d6dc6b5f2572ca9a43941169cef7c415ff050bf",
+    "salt": "ab3892ced9d0304fb039bc4a2e2ed614",
+    "active": true,
+    "created_at": "2026-11-12T09:09:55"
+  },
+  {
+    "username": "agent",
+    "full_name": "Kỹ Thuật Viên",
+    "email": "agent@example.com",
+    "phone": "0900000002",
+    "role": "agent",
+    "password_hash": "1852c2b95632674b19dcc664ea6fbf1129b3f7358163776b34168f93c2d09a3b",
+    "salt": "2cb5dbe1ec2024fed1ad2c1dd36d7085",
+    "active": true,
+    "created_at": "2026-11-12T09:09:55"
+  },
+  {
+    "username": "nv_an",
+    "full_name": "Nguyễn Văn An",
+    "email": "an.nv@example.com",
+    "phone": "0911111111",
+    "role": "user",
+    "password_hash": "345823116284d1def5234192bac72ff01ef73590ef2c82ae3fb564f9622c6f71",
+    "salt": "fc4a6affa21f3857c1cbf68b7d65bf52",
+    "active": true,
+    "created_at": "2026-11-12T09:09:55"
+  },
+  {
+    "username": "nv_binh",
+    "full_name": "Trần Thị Bình",
+    "email": "binh.tt@example.com",
+    "phone": "0922222222",
+    "role": "user",
+    "password_hash": "764de980f0cd79876da3f3568ea721848341104bc925345e7ffbc9c5199f192a",
+    "salt": "16f012cc85fb7fa205e7f32d4fccac98",
+    "active": true,
+    "created_at": "2026-11-12T09:09:55"
+  },
+  {
+    "username": "nv_chi",
+    "full_name": "Lê Minh Chi",
+    "email": "chi.lm@example.com",
+    "phone": "0933333333",
+    "role": "user",
+    "password_hash": "13f78d191ff365b9392cfb2a10a452d959cf86f63709151586b60de675b909ec",
+    "salt": "580d364fccde290f1bf39e8b43061219",
+    "active": true,
+    "created_at": "2026-11-12T09:09:55"
+  },
+  {
+    "username": "nv_dung",
+    "full_name": "Phạm Quốc Dũng",
+    "email": "dung.pq@example.com",
+    "phone": "0944444444",
+    "role": "user",
+    "password_hash": "8f80c51facfb063ef1b3994230c909f1b56fe1d3a7572637584aadec2f8e7bc4",
+    "salt": "944b5dabc1c99c85f9f6b985a30f3567",
+    "active": true,
+    "created_at": "2026-11-12T09:09:55"
+  },
+  {
+    "username": "phuctran2709",
+    "full_name": "Trần Chính Phúc",
+    "email": "phuctran27099@gmail.com",
+    "phone": "",
+    "role": "user",
+    "password_hash": "bf833c0f3a2946d2c6ea4a731b011cca33dd3384d642287bbc98ef29cd41eabe",
+    "salt": "b28ae3aeddd1565473870f19ac1cecd1",
+    "active": true,
+    "created_at": "2026-11-12T12:29:30"
+  },
+  {
+    "username": "user",
+    "full_name": "Người Dùng Mẫu",
+    "email": "user@example.com",
+    "phone": "0900000003",
+    "role": "user",
+    "password_hash": "c3b5d1accf2781cb75c0c504e228dc3a1236142c5ee9d6c1afd3329d960c8276",
+    "salt": "65540b481b392b8ede7793508c827bed",
+    "active": true,
+    "created_at": "2026-11-12T09:09:55"
+  }
+]

@@ -1,0 +1,1884 @@
+[
+  {
+    "ticket_id": "TK000001",
+    "title": "VPN thường xuyên bị ngắt kết nối",
+    "description": "VPN công ty tự ngắt sau vài phút, ảnh hưởng truy cập hệ thống nội bộ.",
+    "requester": "nv_an",
+    "category": "Mạng",
+    "priority": "medium",
+    "group_id": "G01",
+    "assignee": "agent",
+    "status": "closed",
+    "created_at": "2026-10-16T00:10:55",
+    "updated_at": "2026-10-16T22:38:59",
+    "resolved_at": "2026-10-16T18:21:44",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-16T00:10:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-16T00:10:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-16T10:11:36"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-16T18:21:44"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-10-16T22:38:59"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000002",
+    "title": "VPN thường xuyên bị ngắt kết nối",
+    "description": "VPN công ty tự ngắt sau vài phút, ảnh hưởng truy cập hệ thống nội bộ.",
+    "requester": "nv_dung",
+    "category": "Mạng",
+    "priority": "high",
+    "group_id": "G01",
+    "assignee": "",
+    "status": "new",
+    "created_at": "2026-11-11T23:48:43",
+    "updated_at": "2026-11-11T23:48:43",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-11-11T23:48:43"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000003",
+    "title": "Máy in phòng 4 bị kẹt giấy",
+    "description": "Máy in báo kẹt giấy liên tục dù đã kiểm tra khay giấy.",
+    "requester": "nv_chi",
+    "category": "Phần cứng",
+    "priority": "medium",
+    "group_id": "G02",
+    "assignee": "admin",
+    "status": "closed",
+    "created_at": "2026-10-27T03:07:55",
+    "updated_at": "2026-10-27T23:03:40",
+    "resolved_at": "2026-10-27T15:26:06",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "nv_chi",
+        "content": "Lỗi vẫn còn xuất hiện sau khi khởi động lại máy.",
+        "created_at": "2026-10-27T23:03:40",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-27T03:07:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-10-27T03:07:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-27T12:49:50"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-27T15:26:06"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-10-27T23:03:40"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000004",
+    "title": "Màn hình máy tính bị nhấp nháy",
+    "description": "Màn hình nhấp nháy mỗi vài giây, đã thử đổi cáp HDMI nhưng không đỡ.",
+    "requester": "nv_chi",
+    "category": "Phần cứng",
+    "priority": "low",
+    "group_id": "G02",
+    "assignee": "agent",
+    "status": "waiting",
+    "created_at": "2026-11-10T13:29:08",
+    "updated_at": "2026-11-12T09:09:55",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-11-10T13:29:08"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-11-10T13:29:08"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T09:09:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Chờ phản hồi",
+        "time": "2026-11-12T09:09:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000005",
+    "title": "Đề nghị cấp quyền thư mục chung",
+    "description": "Cần quyền truy cập thư mục chung của phòng kinh doanh.",
+    "requester": "nv_dung",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "medium",
+    "group_id": "G04",
+    "assignee": "agent",
+    "status": "closed",
+    "created_at": "2026-10-31T14:09:55",
+    "updated_at": "2026-11-01T16:10:26",
+    "resolved_at": "2026-11-01T08:07:41",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-31T14:09:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-31T14:09:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-31T21:30:37"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-11-01T08:07:41"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-11-01T16:10:26"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000006",
+    "title": "Đề nghị cấp quyền thư mục chung",
+    "description": "Cần quyền truy cập thư mục chung của phòng kinh doanh.",
+    "requester": "nv_an",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "low",
+    "group_id": "G04",
+    "assignee": "admin",
+    "status": "resolved",
+    "created_at": "2026-10-23T19:38:55",
+    "updated_at": "2026-10-25T21:53:06",
+    "resolved_at": "2026-10-25T21:53:06",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-10-23T19:38:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-10-23T19:38:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-25T03:08:49"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-25T21:53:06"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000007",
+    "title": "Quên mật khẩu tài khoản email",
+    "description": "Không đăng nhập được email công ty, cần cấp lại mật khẩu.",
+    "requester": "nv_dung",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "low",
+    "group_id": "G04",
+    "assignee": "agent",
+    "status": "resolved",
+    "created_at": "2026-10-18T12:41:55",
+    "updated_at": "2026-10-21T04:21:31",
+    "resolved_at": "2026-10-21T04:21:31",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-10-18T12:41:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-18T12:41:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-20T05:39:15"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-21T04:21:31"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000008",
+    "title": "Cần cài đặt phần mềm kế toán",
+    "description": "Cần cài phần mềm kế toán phiên bản mới cho máy tại phòng 4.",
+    "requester": "nv_dung",
+    "category": "Phần mềm",
+    "priority": "medium",
+    "group_id": "G03",
+    "assignee": "admin",
+    "status": "in_progress",
+    "created_at": "2026-11-11T06:48:29",
+    "updated_at": "2026-11-11T16:38:34",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-11-11T06:48:29"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-11T06:48:29"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-11T16:38:34"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000009",
+    "title": "Excel bị treo khi mở tệp lớn",
+    "description": "Mở bảng tính trên 20MB thì Excel không phản hồi và tự đóng.",
+    "requester": "nv_chi",
+    "category": "Phần mềm",
+    "priority": "medium",
+    "group_id": "G03",
+    "assignee": "agent",
+    "status": "closed",
+    "created_at": "2026-10-31T12:33:55",
+    "updated_at": "2026-11-01T17:23:37",
+    "resolved_at": "2026-11-01T06:44:40",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "agent",
+        "content": "Đã thử cách khắc phục, vui lòng kiểm tra lại giúp mình.",
+        "created_at": "2026-11-01T17:23:37",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-31T12:33:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-31T12:33:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-31T19:53:29"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-11-01T06:44:40"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-11-01T17:23:37"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000010",
+    "title": "Bàn phím và chuột không nhận",
+    "description": "Sau khi khởi động lại, bàn phím và chuột USB không hoạt động.",
+    "requester": "nv_dung",
+    "category": "Phần cứng",
+    "priority": "high",
+    "group_id": "G02",
+    "assignee": "agent",
+    "status": "resolved",
+    "created_at": "2026-10-19T21:57:55",
+    "updated_at": "2026-10-20T05:45:12",
+    "resolved_at": "2026-10-20T05:45:12",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "agent",
+        "content": "Đã nhận thông tin, đang kiểm tra.",
+        "created_at": "2026-10-20T05:45:12",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-10-19T21:57:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-19T21:57:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-20T03:55:41"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-20T05:45:12"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000011",
+    "title": "Quên mật khẩu tài khoản email",
+    "description": "Không đăng nhập được email công ty, cần cấp lại mật khẩu.",
+    "requester": "nv_chi",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "medium",
+    "group_id": "G04",
+    "assignee": "",
+    "status": "new",
+    "created_at": "2026-11-11T09:14:08",
+    "updated_at": "2026-11-11T09:14:08",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-11-11T09:14:08"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000012",
+    "title": "Excel bị treo khi mở tệp lớn",
+    "description": "Mở bảng tính trên 20MB thì Excel không phản hồi và tự đóng.",
+    "requester": "nv_an",
+    "category": "Phần mềm",
+    "priority": "high",
+    "group_id": "G03",
+    "assignee": "admin",
+    "status": "waiting",
+    "created_at": "2026-11-12T03:07:04",
+    "updated_at": "2026-11-12T09:09:55",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-11-12T03:07:04"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-12T03:07:04"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T05:18:20"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Chờ phản hồi",
+        "time": "2026-11-12T09:09:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000013",
+    "title": "Màn hình máy tính bị nhấp nháy",
+    "description": "Màn hình nhấp nháy mỗi vài giây, đã thử đổi cáp HDMI nhưng không đỡ.",
+    "requester": "nv_an",
+    "category": "Phần cứng",
+    "priority": "high",
+    "group_id": "G02",
+    "assignee": "admin",
+    "status": "in_progress",
+    "created_at": "2026-11-12T02:46:04",
+    "updated_at": "2026-11-12T09:09:55",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "nv_an",
+        "content": "Lỗi vẫn còn xuất hiện sau khi khởi động lại máy.",
+        "created_at": "2026-11-12T09:09:55",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-11-12T02:46:04"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-12T02:46:04"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T09:09:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000014",
+    "title": "Hỗ trợ chuẩn bị phòng họp trực tuyến",
+    "description": "Cần kiểm tra micro và camera phòng họp 5 trước cuộc họp chiều nay.",
+    "requester": "nv_an",
+    "category": "Khác",
+    "priority": "medium",
+    "group_id": "G03",
+    "assignee": "agent",
+    "status": "waiting",
+    "created_at": "2026-11-12T02:09:13",
+    "updated_at": "2026-11-12T09:09:55",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "agent",
+        "content": "Sự cố đã được xử lý, cảm ơn bạn.",
+        "created_at": "2026-11-12T09:09:55",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-11-12T02:09:13"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-11-12T02:09:13"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T09:09:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Chờ phản hồi",
+        "time": "2026-11-12T09:09:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000015",
+    "title": "Không kết nối được Wi-Fi tại tầng 1",
+    "description": "Laptop báo kết nối giới hạn, thử quên mạng và nối lại vẫn lỗi.",
+    "requester": "nv_an",
+    "category": "Mạng",
+    "priority": "medium",
+    "group_id": "G01",
+    "assignee": "",
+    "status": "new",
+    "created_at": "2026-11-11T20:46:16",
+    "updated_at": "2026-11-11T20:46:16",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-11-11T20:46:16"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000016",
+    "title": "Không kết nối được Wi-Fi tại tầng 5",
+    "description": "Laptop báo kết nối giới hạn, thử quên mạng và nối lại vẫn lỗi.",
+    "requester": "nv_chi",
+    "category": "Mạng",
+    "priority": "medium",
+    "group_id": "G01",
+    "assignee": "admin",
+    "status": "resolved",
+    "created_at": "2026-10-22T20:59:55",
+    "updated_at": "2026-10-23T17:59:46",
+    "resolved_at": "2026-10-23T17:59:46",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-22T20:59:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-10-22T20:59:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-23T07:45:28"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-23T17:59:46"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000017",
+    "title": "Mạng LAN phòng 2 chậm bất thường",
+    "description": "Tải tệp qua mạng nội bộ rất chậm, các máy cùng phòng đều bị.",
+    "requester": "nv_binh",
+    "category": "Mạng",
+    "priority": "low",
+    "group_id": "G01",
+    "assignee": "admin",
+    "status": "waiting",
+    "created_at": "2026-11-10T20:53:55",
+    "updated_at": "2026-11-12T09:09:55",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_binh",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-11-10T20:53:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-10T20:53:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T07:41:06"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Chờ phản hồi",
+        "time": "2026-11-12T09:09:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000018",
+    "title": "Mạng LAN phòng 1 chậm bất thường",
+    "description": "Tải tệp qua mạng nội bộ rất chậm, các máy cùng phòng đều bị.",
+    "requester": "nv_an",
+    "category": "Mạng",
+    "priority": "low",
+    "group_id": "G01",
+    "assignee": "agent",
+    "status": "waiting",
+    "created_at": "2026-11-09T08:45:30",
+    "updated_at": "2026-11-12T09:09:55",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "agent",
+        "content": "Lỗi vẫn còn xuất hiện sau khi khởi động lại máy.",
+        "created_at": "2026-11-12T09:09:55",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-11-09T08:45:30"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-11-09T08:45:30"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-11T03:47:23"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Chờ phản hồi",
+        "time": "2026-11-12T09:09:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000019",
+    "title": "Hỗ trợ chuẩn bị phòng họp trực tuyến",
+    "description": "Cần kiểm tra micro và camera phòng họp 2 trước cuộc họp chiều nay.",
+    "requester": "nv_binh",
+    "category": "Khác",
+    "priority": "high",
+    "group_id": "G03",
+    "assignee": "admin",
+    "status": "resolved",
+    "created_at": "2026-11-12T04:16:54",
+    "updated_at": "2026-11-12T12:25:46",
+    "resolved_at": "2026-11-12T12:25:46",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "admin",
+        "content": "Sự cố đã được xử lý, cảm ơn bạn.",
+        "created_at": "2026-11-12T09:04:32",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_binh",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-11-12T04:16:54"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-12T04:16:54"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T07:13:39"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Chờ phản hồi",
+        "time": "2026-11-12T09:04:32"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Chờ phản hồi -> Đã giải quyết",
+        "time": "2026-11-12T12:25:46"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000020",
+    "title": "Màn hình máy tính bị nhấp nháy",
+    "description": "Màn hình nhấp nháy mỗi vài giây, đã thử đổi cáp HDMI nhưng không đỡ.",
+    "requester": "nv_chi",
+    "category": "Phần cứng",
+    "priority": "high",
+    "group_id": "G02",
+    "assignee": "agent",
+    "status": "resolved",
+    "created_at": "2026-10-23T03:03:55",
+    "updated_at": "2026-10-23T13:59:01",
+    "resolved_at": "2026-10-23T13:59:01",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "agent",
+        "content": "Sự cố đã được xử lý, cảm ơn bạn.",
+        "created_at": "2026-10-23T13:59:01",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-10-23T03:03:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-23T03:03:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-23T08:26:08"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-23T13:59:01"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000021",
+    "title": "Quên mật khẩu tài khoản email",
+    "description": "Không đăng nhập được email công ty, cần cấp lại mật khẩu.",
+    "requester": "nv_binh",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "medium",
+    "group_id": "G04",
+    "assignee": "agent",
+    "status": "closed",
+    "created_at": "2026-10-27T08:14:55",
+    "updated_at": "2026-10-28T07:46:58",
+    "resolved_at": "2026-10-28T00:09:11",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "agent",
+        "content": "Lỗi vẫn còn xuất hiện sau khi khởi động lại máy.",
+        "created_at": "2026-10-28T07:46:58",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_binh",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-27T08:14:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-27T08:14:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-27T16:08:34"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-28T00:09:11"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-10-28T07:46:58"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000022",
+    "title": "Nghi ngờ email lừa đảo",
+    "description": "Nhận được email giả mạo yêu cầu cung cấp mật khẩu, cần kiểm tra.",
+    "requester": "nv_binh",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "low",
+    "group_id": "G04",
+    "assignee": "admin",
+    "status": "resolved",
+    "created_at": "2026-10-17T17:54:55",
+    "updated_at": "2026-10-19T02:43:11",
+    "resolved_at": "2026-10-19T02:43:11",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_binh",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-10-17T17:54:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-10-17T17:54:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-18T06:13:43"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-19T02:43:11"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000023",
+    "title": "Mạng LAN phòng 1 chậm bất thường",
+    "description": "Tải tệp qua mạng nội bộ rất chậm, các máy cùng phòng đều bị.",
+    "requester": "nv_an",
+    "category": "Mạng",
+    "priority": "low",
+    "group_id": "G01",
+    "assignee": "agent",
+    "status": "resolved",
+    "created_at": "2026-11-03T22:03:55",
+    "updated_at": "2026-11-06T20:37:11",
+    "resolved_at": "2026-11-06T20:37:11",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "nv_an",
+        "content": "Đã thử cách khắc phục, vui lòng kiểm tra lại giúp mình.",
+        "created_at": "2026-11-06T20:37:11",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-11-03T22:03:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-11-03T22:03:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-04T19:12:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-11-06T20:37:11"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000024",
+    "title": "Màn hình máy tính bị nhấp nháy",
+    "description": "Màn hình nhấp nháy mỗi vài giây, đã thử đổi cáp HDMI nhưng không đỡ.",
+    "requester": "nv_dung",
+    "category": "Phần cứng",
+    "priority": "critical",
+    "group_id": "G02",
+    "assignee": "admin",
+    "status": "closed",
+    "created_at": "2026-10-31T15:54:55",
+    "updated_at": "2026-10-31T17:50:23",
+    "resolved_at": "2026-10-31T16:59:40",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "admin",
+        "content": "Đã thử cách khắc phục, vui lòng kiểm tra lại giúp mình.",
+        "created_at": "2026-10-31T17:50:23",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Khẩn cấp",
+        "time": "2026-10-31T15:54:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-10-31T15:54:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-31T16:17:20"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-31T16:59:40"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-10-31T17:50:23"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000025",
+    "title": "Bàn phím và chuột không nhận",
+    "description": "Sau khi khởi động lại, bàn phím và chuột USB không hoạt động.",
+    "requester": "nv_an",
+    "category": "Phần cứng",
+    "priority": "low",
+    "group_id": "G02",
+    "assignee": "agent",
+    "status": "closed",
+    "created_at": "2026-10-28T23:26:55",
+    "updated_at": "2026-10-31T06:53:25",
+    "resolved_at": "2026-10-30T22:04:38",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "agent",
+        "content": "Đã thử cách khắc phục, vui lòng kiểm tra lại giúp mình.",
+        "created_at": "2026-10-31T06:53:25",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-10-28T23:26:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-28T23:26:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-29T18:33:58"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-30T22:04:38"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-10-31T06:53:25"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000026",
+    "title": "Máy tính khởi động rất chậm",
+    "description": "Máy mất hơn mười phút mới vào được màn hình làm việc.",
+    "requester": "nv_an",
+    "category": "Phần cứng",
+    "priority": "medium",
+    "group_id": "G02",
+    "assignee": "agent",
+    "status": "resolved",
+    "created_at": "2026-10-23T11:37:55",
+    "updated_at": "2026-10-24T08:58:39",
+    "resolved_at": "2026-10-24T08:58:39",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-23T11:37:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-23T11:37:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-24T01:42:46"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-24T08:58:39"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000027",
+    "title": "Nghi ngờ email lừa đảo",
+    "description": "Nhận được email giả mạo yêu cầu cung cấp mật khẩu, cần kiểm tra.",
+    "requester": "nv_dung",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "medium",
+    "group_id": "G04",
+    "assignee": "admin",
+    "status": "in_progress",
+    "created_at": "2026-11-11T04:45:36",
+    "updated_at": "2026-11-12T04:24:17",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-11-11T04:45:36"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-11T04:45:36"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T04:24:17"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000028",
+    "title": "VPN thường xuyên bị ngắt kết nối",
+    "description": "VPN công ty tự ngắt sau vài phút, ảnh hưởng truy cập hệ thống nội bộ.",
+    "requester": "nv_an",
+    "category": "Mạng",
+    "priority": "low",
+    "group_id": "G01",
+    "assignee": "",
+    "status": "new",
+    "created_at": "2026-11-11T15:06:22",
+    "updated_at": "2026-11-11T15:06:22",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-11-11T15:06:22"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000029",
+    "title": "Không kết nối được Wi-Fi tại tầng 4",
+    "description": "Laptop báo kết nối giới hạn, thử quên mạng và nối lại vẫn lỗi.",
+    "requester": "nv_binh",
+    "category": "Mạng",
+    "priority": "low",
+    "group_id": "G01",
+    "assignee": "agent",
+    "status": "in_progress",
+    "created_at": "2026-11-10T16:46:42",
+    "updated_at": "2026-11-12T09:09:55",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_binh",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-11-10T16:46:42"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-11-10T16:46:42"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T09:09:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000030",
+    "title": "Mạng LAN phòng 5 chậm bất thường",
+    "description": "Tải tệp qua mạng nội bộ rất chậm, các máy cùng phòng đều bị.",
+    "requester": "nv_dung",
+    "category": "Mạng",
+    "priority": "critical",
+    "group_id": "G01",
+    "assignee": "admin",
+    "status": "closed",
+    "created_at": "2026-11-05T15:21:55",
+    "updated_at": "2026-11-05T17:59:11",
+    "resolved_at": "2026-11-05T16:56:23",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Khẩn cấp",
+        "time": "2026-11-05T15:21:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-05T15:21:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-05T15:39:46"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-11-05T16:56:23"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-11-05T17:59:11"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000031",
+    "title": "Mạng LAN phòng 5 chậm bất thường",
+    "description": "Tải tệp qua mạng nội bộ rất chậm, các máy cùng phòng đều bị.",
+    "requester": "nv_binh",
+    "category": "Mạng",
+    "priority": "high",
+    "group_id": "G01",
+    "assignee": "agent",
+    "status": "resolved",
+    "created_at": "2026-10-13T18:27:55",
+    "updated_at": "2026-10-14T03:50:07",
+    "resolved_at": "2026-10-14T03:50:07",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "agent",
+        "content": "Đã nhận thông tin, đang kiểm tra.",
+        "created_at": "2026-10-14T03:50:07",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_binh",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-10-13T18:27:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-13T18:27:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-13T22:48:36"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-14T03:50:07"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000032",
+    "title": "Quên mật khẩu tài khoản email",
+    "description": "Không đăng nhập được email công ty, cần cấp lại mật khẩu.",
+    "requester": "nv_an",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "medium",
+    "group_id": "G04",
+    "assignee": "agent",
+    "status": "closed",
+    "created_at": "2026-10-20T05:07:55",
+    "updated_at": "2026-10-21T06:44:03",
+    "resolved_at": "2026-10-20T20:17:04",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "nv_an",
+        "content": "Bạn vui lòng cho biết thêm thời điểm xảy ra lỗi.",
+        "created_at": "2026-10-21T06:44:03",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-20T05:07:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-20T05:07:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-20T14:39:12"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-20T20:17:04"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-10-21T06:44:03"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000033",
+    "title": "Bàn phím và chuột không nhận",
+    "description": "Sau khi khởi động lại, bàn phím và chuột USB không hoạt động.",
+    "requester": "nv_dung",
+    "category": "Phần cứng",
+    "priority": "medium",
+    "group_id": "G02",
+    "assignee": "admin",
+    "status": "resolved",
+    "created_at": "2026-10-21T18:51:55",
+    "updated_at": "2026-10-22T09:13:17",
+    "resolved_at": "2026-10-22T09:13:17",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "nv_dung",
+        "content": "Đã thử cách khắc phục, vui lòng kiểm tra lại giúp mình.",
+        "created_at": "2026-10-22T09:13:17",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-21T18:51:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-10-21T18:51:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-21T23:55:28"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-22T09:13:17"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000034",
+    "title": "Đề nghị cấp quyền thư mục chung",
+    "description": "Cần quyền truy cập thư mục chung của phòng kinh doanh.",
+    "requester": "nv_dung",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "low",
+    "group_id": "G04",
+    "assignee": "admin",
+    "status": "closed",
+    "created_at": "2026-10-14T06:34:55",
+    "updated_at": "2026-10-16T10:18:14",
+    "resolved_at": "2026-10-15T20:35:58",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_dung",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-10-14T06:34:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-10-14T06:34:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-14T21:25:46"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-15T20:35:58"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-10-16T10:18:14"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000035",
+    "title": "VPN thường xuyên bị ngắt kết nối",
+    "description": "VPN công ty tự ngắt sau vài phút, ảnh hưởng truy cập hệ thống nội bộ.",
+    "requester": "nv_binh",
+    "category": "Mạng",
+    "priority": "medium",
+    "group_id": "G01",
+    "assignee": "admin",
+    "status": "closed",
+    "created_at": "2026-10-16T20:32:55",
+    "updated_at": "2026-10-18T03:06:01",
+    "resolved_at": "2026-10-17T14:42:47",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "admin",
+        "content": "Bạn vui lòng cho biết thêm thời điểm xảy ra lỗi.",
+        "created_at": "2026-10-18T03:06:01",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_binh",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-10-16T20:32:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-10-16T20:32:55"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-17T08:51:02"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-17T14:42:47"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đã giải quyết -> Đã đóng",
+        "time": "2026-10-18T03:06:01"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000036",
+    "title": "Cần cài đặt phần mềm kế toán",
+    "description": "Cần cài phần mềm kế toán phiên bản mới cho máy tại phòng 1.",
+    "requester": "nv_binh",
+    "category": "Phần mềm",
+    "priority": "high",
+    "group_id": "G03",
+    "assignee": "agent",
+    "status": "resolved",
+    "created_at": "2026-10-28T04:16:55",
+    "updated_at": "2026-10-28T09:26:02",
+    "resolved_at": "2026-10-28T09:26:02",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_binh",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-10-28T04:16:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-28T04:16:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-28T05:18:53"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-28T09:26:02"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000037",
+    "title": "Mạng LAN phòng 3 chậm bất thường",
+    "description": "Tải tệp qua mạng nội bộ rất chậm, các máy cùng phòng đều bị.",
+    "requester": "nv_chi",
+    "category": "Mạng",
+    "priority": "medium",
+    "group_id": "G01",
+    "assignee": "admin",
+    "status": "waiting",
+    "created_at": "2026-11-11T02:44:59",
+    "updated_at": "2026-11-12T08:40:02",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-11-11T02:44:59"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-11T02:44:59"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-11T19:23:04"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Chờ phản hồi",
+        "time": "2026-11-12T08:40:02"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000038",
+    "title": "Bàn phím và chuột không nhận",
+    "description": "Sau khi khởi động lại, bàn phím và chuột USB không hoạt động.",
+    "requester": "nv_an",
+    "category": "Phần cứng",
+    "priority": "high",
+    "group_id": "G02",
+    "assignee": "admin",
+    "status": "in_progress",
+    "created_at": "2026-11-12T03:11:23",
+    "updated_at": "2026-11-12T09:09:55",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "admin",
+        "content": "Đã nhận thông tin, đang kiểm tra.",
+        "created_at": "2026-11-12T09:09:55",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_an",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-11-12T03:11:23"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-12T03:11:23"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T09:09:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000039",
+    "title": "Đề nghị cấp quyền thư mục chung",
+    "description": "Cần quyền truy cập thư mục chung của phòng kinh doanh.",
+    "requester": "nv_chi",
+    "category": "Tài khoản & Bảo mật",
+    "priority": "high",
+    "group_id": "G04",
+    "assignee": "admin",
+    "status": "resolved",
+    "created_at": "2026-11-12T03:15:24",
+    "updated_at": "2026-11-12T12:26:04",
+    "resolved_at": "2026-11-12T12:26:04",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [
+      {
+        "author": "nv_chi",
+        "content": "Đã nhận thông tin, đang kiểm tra.",
+        "created_at": "2026-11-12T06:02:48",
+        "internal": false
+      }
+    ],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Cao",
+        "time": "2026-11-12T03:15:24"
+      },
+      {
+        "actor": "admin",
+        "action": "Phân công",
+        "detail": "Người xử lý: admin",
+        "time": "2026-11-12T03:15:24"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-11-12T06:02:48"
+      },
+      {
+        "actor": "admin",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-11-12T12:26:04"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000040",
+    "title": "Máy tính khởi động rất chậm",
+    "description": "Máy mất hơn mười phút mới vào được màn hình làm việc.",
+    "requester": "nv_chi",
+    "category": "Phần cứng",
+    "priority": "low",
+    "group_id": "G02",
+    "assignee": "agent",
+    "status": "resolved",
+    "created_at": "2026-10-27T12:46:55",
+    "updated_at": "2026-10-29T11:25:55",
+    "resolved_at": "2026-10-29T11:25:55",
+    "attachment": "",
+    "source": "sample",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "nv_chi",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Thấp",
+        "time": "2026-10-27T12:46:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Phân công",
+        "detail": "Người xử lý: agent",
+        "time": "2026-10-27T12:46:55"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Mới -> Đang xử lý",
+        "time": "2026-10-28T02:04:38"
+      },
+      {
+        "actor": "agent",
+        "action": "Đổi trạng thái",
+        "detail": "Đang xử lý -> Đã giải quyết",
+        "time": "2026-10-29T11:25:55"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TK000041",
+    "title": "Yêu cầu hỗ trợ kỹ thuật mở dịch vụ S3",
+    "description": "Nhờ anh chị kỹ thuật mở dịch vụ S3 trên tài khoản của em",
+    "requester": "phuctran2709",
+    "category": "Mạng",
+    "priority": "medium",
+    "group_id": "G01",
+    "assignee": "",
+    "status": "new",
+    "created_at": "2026-11-12T12:30:32",
+    "updated_at": "2026-11-12T12:30:32",
+    "resolved_at": null,
+    "attachment": "",
+    "source": "manual",
+    "external_ref": "",
+    "feedbacks": [],
+    "history": [
+      {
+        "actor": "phuctran2709",
+        "action": "Tạo ticket",
+        "detail": "Ưu tiên Trung bình",
+        "time": "2026-11-12T12:30:32"
+      }
+    ]
+  }
+]

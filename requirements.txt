@@ -1,0 +1,3 @@
+# Ứng dụng chỉ dùng thư viện chuẩn của Python (>= 3.8), kèm Tkinter.
+# Không cần cài thêm gói nào để chạy. Chỉ cần khi đóng gói .exe:
+pyinstaller>=6.0

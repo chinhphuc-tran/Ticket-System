@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+data/backup/
+data/*.corrupt
+data/*.tmp
+data/attachments/
+exports/
